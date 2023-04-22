@@ -1,8 +1,8 @@
 {
+  "type": "module",
   "name": "server",
   "version": "1.0.0",
-  "description": "",
-  "type": "module",
+  "description": "This website Generates Ai Images",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index"
