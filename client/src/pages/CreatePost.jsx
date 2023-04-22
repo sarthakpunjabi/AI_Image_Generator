@@ -32,7 +32,7 @@ const CreatePost = () => {
         })
 
         await response.json();
-        console.log("Response",response)
+        
         navigate('/')
 
       } catch (error) {
