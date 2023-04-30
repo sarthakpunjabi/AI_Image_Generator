@@ -1,5 +1,7 @@
 # MERN Stack & OpenAI Image Generation Project
 
+# Visit at - [Click here](https://image-generating-ai.netlify.app)
+
 ### This is a web application project that uses the MERN (MongoDB, Express, React, Node.js) stack and OpenAI's GPT-3 model to generate images based on user preferences.
 
 ## Project Overview
